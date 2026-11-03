@@ -1,0 +1,4 @@
+name = "Juliacluster"
+uuid = "64e59245-2d29-4040-93fb-3a8f7fac4cfa"
+version = "0.1.0"
+authors = ["ulqi <ulqi@protonmail.com>"]
